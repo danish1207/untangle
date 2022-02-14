@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/untangle/static/css/main.3a23ed6c.css",
+    "main.js": "/untangle/static/js/main.f7cc225a.js",
+    "static/js/787.97a945da.chunk.js": "/untangle/static/js/787.97a945da.chunk.js",
+    "static/media/List.png": "/untangle/static/media/List.db65de31cf308d0bf5e7.png",
+    "index.html": "/untangle/index.html",
+    "main.3a23ed6c.css.map": "/untangle/static/css/main.3a23ed6c.css.map",
+    "main.f7cc225a.js.map": "/untangle/static/js/main.f7cc225a.js.map",
+    "787.97a945da.chunk.js.map": "/untangle/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a23ed6c.css",
+    "static/js/main.f7cc225a.js"
+  ]
+}
